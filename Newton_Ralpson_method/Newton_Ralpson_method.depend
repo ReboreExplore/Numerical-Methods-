@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538066000 source:d:\arranged stuff\codeblocks space\newton_ralpson_method\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
